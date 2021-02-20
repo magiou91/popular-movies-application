@@ -32,7 +32,7 @@ Project is created with:
 * HTML
 * Bootstrap
 * CSS
-* Javascript (jQuery)
+* JavaScript (jQuery)
 
 	
 ## Setup
