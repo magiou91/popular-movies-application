@@ -1,4 +1,4 @@
-# Popular Movies app
+# popular-movies-application
 
 ## Table of contents
 * [General info](#general-info)
