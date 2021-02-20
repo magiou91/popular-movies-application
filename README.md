@@ -15,7 +15,7 @@ When the user clicks on a popular movie its details should be appear on the righ
 * Year of release
 * Avarage vote
 * Date of release (d/m/y)
-* Genres (limited to up to 3)
+* Genres
 * Duration in minutes
 * Trailer button
 
