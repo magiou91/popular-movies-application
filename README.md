@@ -1,4 +1,4 @@
-# popular-movies-application
+# Popular Movies app
 
 ## Table of contents
 * [General info](#general-info)
@@ -8,7 +8,7 @@
 
 ## General info
 This project is simple an application page that onload has on the left side a list with all popular movies with preselected the first movie.
-When the user click on a popular movie its details should be appear on the right side.
+When the user clicks on a popular movie its details should be appear on the right side.
 
 ### Movie details includes:
 * Title
@@ -19,9 +19,9 @@ When the user click on a popular movie its details should be appear on the right
 * Duration in minutes
 * Trailer button
 
-When the user click on the "see trailer" button the movie trailer should be appear.
+When the user clicks on the "see trailer" button the movie trailer should be appear.
 
-When the user type some search term on the search bar and clicks on the magnifier button:
+When the user types some search term on the search bar and clicks on the magnifier button:
 * if there are relative to the search term movies a list of them should be displayed on the right side.
 * if there are not any movie a message "NO RESULTS FOR: search term" should be appear.
 
